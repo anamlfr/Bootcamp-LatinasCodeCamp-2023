@@ -1,0 +1,85 @@
+*{
+    margin: 1;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:'Courier New', Courier, monospace;
+}
+
+h1{
+    color: rgb(23, 39, 60);
+    text-align: center;
+}
+h2{
+    margin: 5px 50px;
+    padding: 5px 5px;
+    color: rgb(106, 142, 179);
+}
+
+p{
+    text-align: justify;
+    margin: 5px 50px;
+    padding: 5px 5px;
+    font-size: 16px;
+}
+
+/*Listas*/
+
+li{
+    margin: 5px 50px;
+    padding: 5px 5px;
+}
+
+.discography{
+    margin: 5px 50px;
+    padding: 5px 5px;
+}
+
+.why{
+    margin: 5px 50px;
+    padding: 5px 5px;
+}
+
+/* Imagenes */
+img{
+    margin-left: 80px;
+    margin-right: 80px;
+}
+
+.multimedia{
+    margin-left: 80px;
+    margin-right: 80px;
+
+}
+
+/* Video Youtube*/
+h3{
+    text-align: center;
+}
+video{
+    width: 600px;
+    height: 300px;
+    padding-left: 30px;
+    padding-right: 50px;
+    margin-left: 400px;
+
+}
+
+.quote{
+    width: 400px;
+    height: 400px;
+    margin-left: 500px;
+}
+
+footer {
+    text-align: center;
+    padding: 30px;
+    background-color: rgb(111, 45, 50);
+    color: #ffffff;
+}
+
+
+
+
+
+
+
